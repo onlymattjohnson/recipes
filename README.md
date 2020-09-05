@@ -4,6 +4,9 @@
 ## Dessert
 * [German Chocolate Cake](recipes/german-chocolate-cake.md)
 
+## Entrees
+* [Chana Saag Aloo](recipes/chana-saag-aloo.md)
+
 ## Sandwiches
 * [Chickpea Of The Sea](recipes/chickpea-of-the-sea.md)
 

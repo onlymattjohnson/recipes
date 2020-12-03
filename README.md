@@ -10,6 +10,9 @@
 ## Sandwiches
 * [Chickpea Of The Sea](recipes/chickpea-of-the-sea.md)
 
+## Salads
+* [Kale Waldorf](recipes/kale-waldorf-salad.md)
+
 ## Sauces
 * [Pasta Salad Dressing](recipes/pasta-salad-dressing.md)
 

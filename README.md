@@ -2,6 +2,7 @@
 **Recipes** stores recipes that I would like to save and remember for later.
 
 ## Dessert
+* [Cornbread](recipes/cornbread.md)
 * [German Chocolate Cake](recipes/german-chocolate-cake.md)
 
 ## Entrees

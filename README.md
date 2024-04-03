@@ -18,3 +18,6 @@
 
 ## Snacks
 * [White Bean Dip](recipes/white-bean-dip.md)
+
+## Soups
+* [Split Pea Soup](recipes/split-pea-soup.md)

@@ -4,6 +4,7 @@
 ## Dessert
 * [Cornbread](recipes/cornbread.md)
 * [German Chocolate Cake](recipes/german-chocolate-cake.md)
+* [Pumpkin Sourdough Muffins](recipes/pumpkin-sourdough-muffins.md)
 
 ## Entrees
 * [Chana Saag Aloo](recipes/chana-saag-aloo.md)

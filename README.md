@@ -11,6 +11,7 @@
 
 ## Entrees
 * [Chana Saag Aloo](recipes/chana-saag-aloo.md)
+* [Vegan Egg](recipes/vegan-egg.md)
 
 ## Sandwiches
 * [Chickpea Of The Sea](recipes/chickpea-of-the-sea.md)

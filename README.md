@@ -11,6 +11,7 @@
 
 ## Entrees
 * [Chana Saag Aloo](recipes/chana-saag-aloo.md)
+* [Red Lentil and Sweet Potato Soup](recipes/red-lentil-and-sweet-potato-soup.md)
 * [Vegan Egg](recipes/vegan-egg.md)
 
 ## Sandwiches

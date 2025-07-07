@@ -27,4 +27,5 @@
 * [White Bean Dip](recipes/white-bean-dip.md)
 
 ## Soups
+* [Cream of Chicken](recipes/cream-of-chicken-soup.md)
 * [Split Pea Soup](recipes/split-pea-soup.md)

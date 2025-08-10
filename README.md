@@ -21,6 +21,7 @@
 * [Kale Waldorf](recipes/kale-waldorf-salad.md)
 
 ## Sauces
+* [Melty Stretchy Gooey Vegan Nacho Cheese](recipes/vegan-nacho-cheese.md)
 * [Pasta Salad Dressing](recipes/pasta-salad-dressing.md)
 
 ## Snacks

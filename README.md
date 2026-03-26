@@ -22,6 +22,7 @@
 * [Kale Waldorf](recipes/kale-waldorf-salad.md)
 
 ## Sauces
+* [Cultured Cashew Cream](recipes/cultured-cashew-cream.md)
 * [Melty Stretchy Gooey Vegan Nacho Cheese](recipes/vegan-nacho-cheese.md)
 * [Pasta Salad Dressing](recipes/pasta-salad-dressing.md)
 * [WFPB Cheese Sauce](recipes/wfpb-pourable-white-bean-cheese-sauce.md)

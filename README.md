@@ -1,6 +1,8 @@
 # Recipes
 **Recipes** stores recipes that I would like to save and remember for later.
 
+Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
+
 ## Baked Goods
 * [Cornbread](recipes/cornbread.md)
 * [Pumpkin Sourdough Muffins](recipes/pumpkin-sourdough-muffins.md)

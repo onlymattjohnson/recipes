@@ -28,6 +28,7 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 * [Melty Stretchy Gooey Vegan Nacho Cheese](recipes/vegan-nacho-cheese.md)
 * [Mole Sauce](recipes/mole-sauce.md)
 * [Pasta Salad Dressing](recipes/pasta-salad-dressing.md)
+* [Smoky Tofu Marinade](recipes/smoky-tofu-marinade.md)
 * [WFPB Cheese Sauce](recipes/wfpb-pourable-white-bean-cheese-sauce.md)
 
 ## Snacks

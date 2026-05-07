@@ -26,6 +26,7 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 ## Sauces
 * [Cultured Cashew Cream](recipes/cultured-cashew-cream.md)
 * [Melty Stretchy Gooey Vegan Nacho Cheese](recipes/vegan-nacho-cheese.md)
+* [Miso Peanut Sauce](recipes/miso-peanut-sauce.md)
 * [Mole Sauce](recipes/mole-sauce.md)
 * [Pasta Salad Dressing](recipes/pasta-salad-dressing.md)
 * [Smoky Tofu Marinade](recipes/smoky-tofu-marinade.md)

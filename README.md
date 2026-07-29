@@ -13,6 +13,9 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 
 ## Entrees
 * [Chana Saag Aloo](recipes/chana-saag-aloo.md)
+* [Charred Cabbage in Spiced Tomatoes With Tahini](recipes/charred-cabbage-spiced-tomatoes-tahini.md)
+* [Creamy Cabbage Curry](recipes/creamy-cabbage-curry.md)
+* [Creamy Vegan Cabbage Pasta](recipes/creamy-vegan-cabbage-pasta.md)
 * [Mushroom and Leek Risotto](recipes/mushroom-and-leek-risotto.md)
 * [Red Lentil and Sweet Potato Soup](recipes/red-lentil-and-sweet-potato-soup.md)
 * [Vegan Egg](recipes/vegan-egg.md)
@@ -31,6 +34,9 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 * [Pasta Salad Dressing](recipes/pasta-salad-dressing.md)
 * [Smoky Tofu Marinade](recipes/smoky-tofu-marinade.md)
 * [WFPB Cheese Sauce](recipes/wfpb-pourable-white-bean-cheese-sauce.md)
+
+## Side Dishes
+* [Deeply Roasted Cabbage With Peanut Crunch](recipes/deeply-roasted-cabbage-peanut-crunch.md)
 
 ## Snacks
 * [White Bean Dip](recipes/white-bean-dip.md)

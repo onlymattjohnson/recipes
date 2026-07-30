@@ -16,6 +16,7 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 * [Charred Cabbage in Spiced Tomatoes With Tahini](recipes/charred-cabbage-spiced-tomatoes-tahini.md)
 * [Creamy Cabbage Curry](recipes/creamy-cabbage-curry.md)
 * [Creamy Vegan Cabbage Pasta](recipes/creamy-vegan-cabbage-pasta.md)
+* [Miso Garlic Melting Cabbage](recipes/miso-garlic-melting-cabbage.md)
 * [Mushroom and Leek Risotto](recipes/mushroom-and-leek-risotto.md)
 * [Red Lentil and Sweet Potato Soup](recipes/red-lentil-and-sweet-potato-soup.md)
 * [Vegan Egg](recipes/vegan-egg.md)

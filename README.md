@@ -9,7 +9,9 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 * [Sourdough Country Tartine Loaf](recipes/sourdough-country.md)
 
 ## Dessert
+* [Apple Cider Caramels (Vegan Adaptation)](recipes/vegan-apple-cider-caramels.md)
 * [German Chocolate Cake](recipes/german-chocolate-cake.md)
+* [Rice Crispy Treats (Vegan Fall Version)](recipes/vegan-fall-rice-crispy-treats.md)
 
 ## Entrees
 * [Chana Saag Aloo](recipes/chana-saag-aloo.md)
@@ -28,11 +30,13 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 * [Kale Waldorf](recipes/kale-waldorf-salad.md)
 
 ## Sauces
+* [Apple Crisp Syrup](recipes/apple-crisp-syrup.md)
 * [Cultured Cashew Cream](recipes/cultured-cashew-cream.md)
 * [Melty Stretchy Gooey Vegan Nacho Cheese](recipes/vegan-nacho-cheese.md)
 * [Miso Peanut Sauce](recipes/miso-peanut-sauce.md)
 * [Mole Sauce](recipes/mole-sauce.md)
 * [Pasta Salad Dressing](recipes/pasta-salad-dressing.md)
+* [Pumpkin Syrup](recipes/pumpkin-syrup.md)
 * [Smoky Tofu Marinade](recipes/smoky-tofu-marinade.md)
 * [WFPB Cheese Sauce](recipes/wfpb-pourable-white-bean-cheese-sauce.md)
 

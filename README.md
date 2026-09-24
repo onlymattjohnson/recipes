@@ -5,6 +5,7 @@ Use [TEMPLATE.md](TEMPLATE.md) as a starting point for adding new recipes.
 
 ## Baked Goods
 * [Cornbread](recipes/cornbread.md)
+* [Pumpkin Banana Blueberry Muffins](recipes/pumpkin-banana-blueberry-muffins.md)
 * [Pumpkin Sourdough Muffins](recipes/pumpkin-sourdough-muffins.md)
 * [Sourdough Country Tartine Loaf](recipes/sourdough-country.md)
 
